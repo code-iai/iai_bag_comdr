@@ -1,2 +1,2 @@
-# iai_trajectory_bag_comdr
-A tool to read, restamp, and command a sequence of command trajectory goals from a ROS bag.
+# iai_bag_comdr
+A collection of ROS nodes to read, restamp, and re-command sequences of robot motions ROS bags.

@@ -1,0 +1,6 @@
+<launch>
+    <rosparam param="joint_state_bag_comdr/filename">/home/georg/Downloads/scraping_1.bag</rosparam>
+    <rosparam param="joint_state_bag_comdr/topic_name">/joint_states</rosparam>
+    <rosparam param="joint_state_bag_comdr/init_move_duration">8.0</rosparam>
+    <rosparam param="joint_state_bag_comdr/joint_names">[torso_lift_joint, r_upper_arm_roll_joint, r_shoulder_pan_joint, r_shoulder_lift_joint, r_forearm_roll_joint, r_elbow_flex_joint, r_wrist_flex_joint, r_wrist_roll_joint, l_upper_arm_roll_joint, l_shoulder_pan_joint, l_shoulder_lift_joint, l_forearm_roll_joint, l_elbow_flex_joint, l_wrist_flex_joint, l_wrist_roll_joint]</rosparam>
+</launch>
